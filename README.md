@@ -1,2 +1,7 @@
 My home page for COC
-Dark mode is reamining and some other tweaks
+Remaining-
+Dark mode
+hover state on card
+transitions
+styling
+images
